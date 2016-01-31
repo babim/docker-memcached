@@ -29,6 +29,4 @@ RUN buildDeps='curl gcc libc6-dev libevent-dev make perl' \
 COPY docker-entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
 
-USER memcache
 EXPOSE 11211
-CMD ["memcached"]
