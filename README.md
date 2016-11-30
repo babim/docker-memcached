@@ -1,3 +1,7 @@
+[![](https://images.microbadger.com/badges/image/babim/memcached.svg)](https://microbadger.com/images/babim/memcached "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/babim/memcached.svg)](https://microbadger.com/images/babim/memcached "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/babim/memcached:pass.svg)](https://microbadger.com/images/babim/memcached:pass "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/babim/memcached:pass.svg)](https://microbadger.com/images/babim/memcached:pass "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/babim/memcached:alpine.svg)](https://microbadger.com/images/babim/memcached:alpine "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/babim/memcached:alpine.svg)](https://microbadger.com/images/babim/memcached:alpine "Get your own version badge on microbadger.com")
+
 # About this Repo
 
 This is the Git repo of the Docker [official image](https://docs.docker.com/docker-hub/official_repos/) for [memcached](https://registry.hub.docker.com/_/memcached/). See [the Docker Hub page](https://registry.hub.docker.com/_/memcached/) for the full readme on how to use this Docker image and for information regarding contributing and issues.
