@@ -7,8 +7,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 		libevent-2.0-5 \
 	&& rm -rf /var/lib/apt/lists/*
 
-ENV MEMCACHED_VERSION 1.4.25
-ENV MEMCACHED_SHA1 7fd0ba9283c61204f196638ecf2e9295688b2314
+ENV MEMCACHED_VERSION 1.4.33
+ENV MEMCACHED_SHA1 e343530c55946ccbdd78c488355b02eaf90b3b46
 
 RUN buildDeps='curl gcc libc6-dev libevent-dev make perl' \
 	&& set -x \
